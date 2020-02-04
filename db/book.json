@@ -1,0 +1,29 @@
+{
+  "books":[
+    {
+      "id": 1,
+      "title": "The Game of Weed",
+      "author": "Erick"
+    },
+    {
+      "id": 2,
+      "title": "The Game of Thrones",
+      "author": "R.R. Tolken"
+    },
+    {
+      "id": 3,
+      "title": "The Game of Age",
+      "author": "Sid"
+    },
+    {
+      "id": 4,
+      "title": "Weed's life",
+      "author": "The Wordl"
+    },
+    {
+      "id": 5,
+      "title": "Hi my friend!",
+      "author": "Micky"
+    }
+  ]
+}
